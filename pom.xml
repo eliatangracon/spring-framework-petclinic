@@ -5,6 +5,10 @@
     <groupId>org.springframework.samples</groupId>
     <artifactId>spring-framework-petclinic</artifactId>
     <version>5.3.8</version>
+    <functionAppName>meuaplicativog</functionAppName>
+    <functionAppRegion>westeurope</functionAppRegion>
+    <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
+    <functionResourceGroup>meugruporecurso</functionResourceGroup>
 
     <name>Spring Framework Petclinic</name>
     <packaging>war</packaging>
