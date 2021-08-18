@@ -12,10 +12,10 @@ variables:
   azureSubscription: '3adb9d80-3e89-446d-ad28-2a014795ae32'
 
   # Web app name
-  webAppName: 'appp22'
+  webAppName: 'meuaplicativo1'
 
   # Environment name
-  environmentName: 'appp22'
+  environmentName: 'meuaplicativo1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
